@@ -1,0 +1,4 @@
+@cwd /usr/pkg
+@name xdo-0.3
+bin/xdo
+man/man1/xdo.1
